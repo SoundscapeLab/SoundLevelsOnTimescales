@@ -3,8 +3,8 @@
 # "Examining sound levels across different timescales measured from body worn dosimeters"
 # by Erik Jorgensen, Jennifer B. Tufts, & Erika Skoe
 #
-# For some reason, I calculate the entropy from the data using Matlab. That code 
-# is also on the lab's Github. You need to combine the entropy values with the data 
+# I calculated the entropy from the data using Matlab. That code 
+# is also in this repository. You need to combine the entropy values with the data 
 # if you want to include that.
 #
 # Code is provided "as-is" without any warranties or guarantees of any kind. 
